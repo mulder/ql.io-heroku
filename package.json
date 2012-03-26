@@ -1,0 +1,20 @@
+{
+    "name": "ql.io-app",
+    "version": "0.1.0",
+    "engines": {
+        "node": "> 0.6.0"
+    },
+    "dependencies":{
+        "winston": "",
+        "cluster2": "",
+        "underscore": "",
+        "ql.io-app": "",
+        "ql.io-compiler": "",
+        "ql.io-console": "",
+        "mustache": "",
+        "headers": "",
+        "express": "",
+        "npm": "",
+        "ejs": ""
+    }
+}
